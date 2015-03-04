@@ -50,7 +50,7 @@ while (questions.length > 0){
   else {
     alert("Incorrect!");
   }}
-alert("You got" + totalCorrect + "correct")
+alert("You got " + totalCorrect + " correct")
 
 
 
